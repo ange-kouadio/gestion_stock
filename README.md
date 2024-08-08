@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Stock AI
 
 ## Description
@@ -57,3 +58,6 @@ git push origin branch-name
 ## License
 
 [MIT](/LICENSE)
+=======
+# gestion_stock
+>>>>>>> cb809a50fcc5aeff8f8b18502dcbaa88302b9b41
